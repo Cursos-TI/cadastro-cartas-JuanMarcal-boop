@@ -7,11 +7,11 @@ int main() {
     char Estado1[50], Estado2[50];
 
     printf("Digite o Estado: \n");
-    scanf("%s", &Estado1);
+    scanf("%s", Estado1);
     printf("Digite o Código: \n");
-    scanf("%s", &Código1);
+    scanf("%s", Código1);
     printf("Digite a Cidade: \n");
-    scanf("%s", &Cidade1);
+    scanf("%s", Cidade1);
     printf("Digite a População: \n");
     scanf("%d", &População1);
     printf("Digite a área: \n");
@@ -34,11 +34,11 @@ int main() {
     printf("\n");
   
     printf("Digite o Estado: \n");
-    scanf("%s", &Estado2);
+    scanf("%s", Estado2);
     printf("Digite o Código: \n");
-    scanf("%s", &Código2);
+    scanf("%s", Código2);
     printf("Digite a Cidade: \n");
-    scanf("%s", &Cidade2);
+    scanf("%s", Cidade2);
     printf("Digite a População: \n");
     scanf("%d", &População2);
     printf("Digite a área: \n");
