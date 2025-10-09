@@ -17,7 +17,7 @@ int main() {
     printf("Digite a área: \n");
     scanf("%f", &área1);
     printf("Digite o PIB: \n");
-    scanf("%.2f", &PIB1);
+    scanf("%f", &PIB1);
     printf("Digite o número de Pontos Turísticos: \n");
     scanf("%d", &Turistico1);
     
